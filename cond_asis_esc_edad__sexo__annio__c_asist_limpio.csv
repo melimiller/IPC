@@ -1,0 +1,705 @@
+anio,edad,sexo,cantidad_personas,condicion_asist_escolar
+1980,3.0,m,.,Asiste
+1980,3.0,m,.,Nunca asistió
+1980,3.0,m,.,No asiste pero asistió
+1980,3.0,m,-,Ignorado
+1980,3.0,v,.,Asiste
+1980,3.0,v,.,Nunca asistió
+1980,3.0,v,.,No asiste pero asistió
+1980,3.0,v,-,Ignorado
+1980,4.0,m,.,Asiste
+1980,4.0,m,.,Nunca asistió
+1980,4.0,m,.,No asiste pero asistió
+1980,4.0,m,-,Ignorado
+1980,4.0,v,.,Asiste
+1980,4.0,v,.,Nunca asistió
+1980,4.0,v,.,No asiste pero asistió
+1980,4.0,v,-,Ignorado
+1980,5.0,m,16482,Asiste
+1980,5.0,m,1561,Nunca asistió
+1980,5.0,m,423,No asiste pero asistió
+1980,5.0,m,-,Ignorado
+1980,5.0,v,16856,Asiste
+1980,5.0,v,1757,Nunca asistió
+1980,5.0,v,408,No asiste pero asistió
+1980,5.0,v,-,Ignorado
+1980,6.0,m,17352,Asiste
+1980,6.0,m,322,Nunca asistió
+1980,6.0,m,464,No asiste pero asistió
+1980,6.0,m,-,Ignorado
+1980,6.0,v,17829,Asiste
+1980,6.0,v,360,Nunca asistió
+1980,6.0,v,455,No asiste pero asistió
+1980,6.0,v,-,Ignorado
+1980,7.0,m,17257,Asiste
+1980,7.0,m,70,Nunca asistió
+1980,7.0,m,511,No asiste pero asistió
+1980,7.0,m,-,Ignorado
+1980,7.0,v,17464,Asiste
+1980,7.0,v,106,Nunca asistió
+1980,7.0,v,528,No asiste pero asistió
+1980,7.0,v,-,Ignorado
+1980,8.0,m,16880,Asiste
+1980,8.0,m,51,Nunca asistió
+1980,8.0,m,529,No asiste pero asistió
+1980,8.0,m,-,Ignorado
+1980,8.0,v,17207,Asiste
+1980,8.0,v,63,Nunca asistió
+1980,8.0,v,541,No asiste pero asistió
+1980,8.0,v,-,Ignorado
+1980,9.0,m,16517,Asiste
+1980,9.0,m,55,Nunca asistió
+1980,9.0,m,496,No asiste pero asistió
+1980,9.0,m,-,Ignorado
+1980,9.0,v,16967,Asiste
+1980,9.0,v,54,Nunca asistió
+1980,9.0,v,523,No asiste pero asistió
+1980,9.0,v,-,Ignorado
+1980,10.0,m,16486,Asiste
+1980,10.0,m,33,Nunca asistió
+1980,10.0,m,541,No asiste pero asistió
+1980,10.0,m,-,Ignorado
+1980,10.0,v,16588,Asiste
+1980,10.0,v,52,Nunca asistió
+1980,10.0,v,546,No asiste pero asistió
+1980,10.0,v,-,Ignorado
+1980,11.0,m,16088,Asiste
+1980,11.0,m,59,Nunca asistió
+1980,11.0,m,600,No asiste pero asistió
+1980,11.0,m,-,Ignorado
+1980,11.0,v,15980,Asiste
+1980,11.0,v,41,Nunca asistió
+1980,11.0,v,539,No asiste pero asistió
+1980,11.0,v,-,Ignorado
+1980,12.0,m,15301,Asiste
+1980,12.0,m,31,Nunca asistió
+1980,12.0,m,717,No asiste pero asistió
+1980,12.0,m,-,Ignorado
+1980,12.0,v,15679,Asiste
+1980,12.0,v,27,Nunca asistió
+1980,12.0,v,690,No asiste pero asistió
+1980,12.0,v,-,Ignorado
+1980,13.0,m,14676,Asiste
+1980,13.0,m,37,Nunca asistió
+1980,13.0,m,1285,No asiste pero asistió
+1980,13.0,m,-,Ignorado
+1980,13.0,v,14606,Asiste
+1980,13.0,v,35,Nunca asistió
+1980,13.0,v,1109,No asiste pero asistió
+1980,13.0,v,-,Ignorado
+1980,14.0,m,14249,Asiste
+1980,14.0,m,61,Nunca asistió
+1980,14.0,m,2153,No asiste pero asistió
+1980,14.0,m,-,Ignorado
+1980,14.0,v,13912,Asiste
+1980,14.0,v,46,Nunca asistió
+1980,14.0,v,1821,No asiste pero asistió
+1980,14.0,v,-,Ignorado
+1980,15.0,m,14153,Asiste
+1980,15.0,m,73,Nunca asistió
+1980,15.0,m,3590,No asiste pero asistió
+1980,15.0,m,-,Ignorado
+1980,15.0,v,13120,Asiste
+1980,15.0,v,65,Nunca asistió
+1980,15.0,v,3077,No asiste pero asistió
+1980,15.0,v,-,Ignorado
+1980,16.0,m,13355,Asiste
+1980,16.0,m,84,Nunca asistió
+1980,16.0,m,4976,No asiste pero asistió
+1980,16.0,m,-,Ignorado
+1980,16.0,v,12397,Asiste
+1980,16.0,v,63,Nunca asistió
+1980,16.0,v,4412,No asiste pero asistió
+1980,16.0,v,-,Ignorado
+1980,17.0,m,12741,Asiste
+1980,17.0,m,103,Nunca asistió
+1980,17.0,m,6800,No asiste pero asistió
+1980,17.0,m,-,Ignorado
+1980,17.0,v,12169,Asiste
+1980,17.0,v,85,Nunca asistió
+1980,17.0,v,6045,No asiste pero asistió
+1980,17.0,v,-,Ignorado
+1980,18.0,m,9189,Asiste
+1980,18.0,m,101,Nunca asistió
+1980,18.0,m,11487,No asiste pero asistió
+1980,18.0,m,-,Ignorado
+1980,18.0,v,9928,Asiste
+1980,18.0,v,95,Nunca asistió
+1980,18.0,v,9391,No asiste pero asistió
+1980,18.0,v,-,Ignorado
+1980,19.0,m,8137,Asiste
+1980,19.0,m,112,Nunca asistió
+1980,19.0,m,12916,No asiste pero asistió
+1980,19.0,m,-,Ignorado
+1980,19.0,v,7707,Asiste
+1980,19.0,v,88,Nunca asistió
+1980,19.0,v,11164,No asiste pero asistió
+1980,19.0,v,-,Ignorado
+1980,20.0,m,7502,Asiste
+1980,20.0,m,161,Nunca asistió
+1980,20.0,m,14736,No asiste pero asistió
+1980,20.0,m,-,Ignorado
+1980,20.0,v,7406,Asiste
+1980,20.0,v,123,Nunca asistió
+1980,20.0,v,13069,No asiste pero asistió
+1980,20.0,v,-,Ignorado
+1980,21.0,m,6565,Asiste
+1980,21.0,m,107,Nunca asistió
+1980,21.0,m,15914,No asiste pero asistió
+1980,21.0,m,-,Ignorado
+1980,21.0,v,7138,Asiste
+1980,21.0,v,109,Nunca asistió
+1980,21.0,v,14190,No asiste pero asistió
+1980,21.0,v,-,Ignorado
+1980,22.0,m,5834,Asiste
+1980,22.0,m,151,Nunca asistió
+1980,22.0,m,17292,No asiste pero asistió
+1980,22.0,m,-,Ignorado
+1980,22.0,v,6580,Asiste
+1980,22.0,v,129,Nunca asistió
+1980,22.0,v,14949,No asiste pero asistió
+1980,22.0,v,-,Ignorado
+1980,23.0,m,5003,Asiste
+1980,23.0,m,137,Nunca asistió
+1980,23.0,m,18300,No asiste pero asistió
+1980,23.0,m,-,Ignorado
+1980,23.0,v,6055,Asiste
+1980,23.0,v,135,Nunca asistió
+1980,23.0,v,15999,No asiste pero asistió
+1980,23.0,v,-,Ignorado
+1980,24.0,m,4046,Asiste
+1980,24.0,m,154,Nunca asistió
+1980,24.0,m,18929,No asiste pero asistió
+1980,24.0,m,-,Ignorado
+1980,24.0,v,4996,Asiste
+1980,24.0,v,145,Nunca asistió
+1980,24.0,v,16580,No asiste pero asistió
+1980,24.0,v,-,Ignorado
+1991,3.0,m,10937,Asiste
+1991,3.0,m,4674,Nunca asistió
+1991,3.0,m,302,No asiste pero asistió
+1991,3.0,m,2302,Ignorado
+1991,3.0,v,11105,Asiste
+1991,3.0,v,4767,Nunca asistió
+1991,3.0,v,308,No asiste pero asistió
+1991,3.0,v,2395,Ignorado
+1991,4.0,m,16782,Asiste
+1991,4.0,m,1341,Nunca asistió
+1991,4.0,m,220,No asiste pero asistió
+1991,4.0,m,342,Ignorado
+1991,4.0,v,17152,Asiste
+1991,4.0,v,1457,Nunca asistió
+1991,4.0,v,212,No asiste pero asistió
+1991,4.0,v,343,Ignorado
+1991,5.0,m,17227,Asiste
+1991,5.0,m,411,Nunca asistió
+1991,5.0,m,159,No asiste pero asistió
+1991,5.0,m,128,Ignorado
+1991,5.0,v,17824,Asiste
+1991,5.0,v,423,Nunca asistió
+1991,5.0,v,146,No asiste pero asistió
+1991,5.0,v,133,Ignorado
+1991,6.0,m,17438,Asiste
+1991,6.0,m,114,Nunca asistió
+1991,6.0,m,140,No asiste pero asistió
+1991,6.0,m,104,Ignorado
+1991,6.0,v,17900,Asiste
+1991,6.0,v,114,Nunca asistió
+1991,6.0,v,135,No asiste pero asistió
+1991,6.0,v,79,Ignorado
+1991,7.0,m,17563,Asiste
+1991,7.0,m,62,Nunca asistió
+1991,7.0,m,140,No asiste pero asistió
+1991,7.0,m,80,Ignorado
+1991,7.0,v,18295,Asiste
+1991,7.0,v,63,Nunca asistió
+1991,7.0,v,122,No asiste pero asistió
+1991,7.0,v,69,Ignorado
+1991,8.0,m,17840,Asiste
+1991,8.0,m,45,Nunca asistió
+1991,8.0,m,127,No asiste pero asistió
+1991,8.0,m,63,Ignorado
+1991,8.0,v,18093,Asiste
+1991,8.0,v,44,Nunca asistió
+1991,8.0,v,121,No asiste pero asistió
+1991,8.0,v,65,Ignorado
+1991,9.0,m,18495,Asiste
+1991,9.0,m,35,Nunca asistió
+1991,9.0,m,158,No asiste pero asistió
+1991,9.0,m,62,Ignorado
+1991,9.0,v,18753,Asiste
+1991,9.0,v,43,Nunca asistió
+1991,9.0,v,147,No asiste pero asistió
+1991,9.0,v,61,Ignorado
+1991,10.0,m,18630,Asiste
+1991,10.0,m,36,Nunca asistió
+1991,10.0,m,152,No asiste pero asistió
+1991,10.0,m,83,Ignorado
+1991,10.0,v,19439,Asiste
+1991,10.0,v,53,Nunca asistió
+1991,10.0,v,170,No asiste pero asistió
+1991,10.0,v,91,Ignorado
+1991,11.0,m,19484,Asiste
+1991,11.0,m,41,Nunca asistió
+1991,11.0,m,191,No asiste pero asistió
+1991,11.0,m,76,Ignorado
+1991,11.0,v,20022,Asiste
+1991,11.0,v,45,Nunca asistió
+1991,11.0,v,200,No asiste pero asistió
+1991,11.0,v,94,Ignorado
+1991,12.0,m,19335,Asiste
+1991,12.0,m,42,Nunca asistió
+1991,12.0,m,290,No asiste pero asistió
+1991,12.0,m,63,Ignorado
+1991,12.0,v,19965,Asiste
+1991,12.0,v,25,Nunca asistió
+1991,12.0,v,238,No asiste pero asistió
+1991,12.0,v,80,Ignorado
+1991,13.0,m,19184,Asiste
+1991,13.0,m,27,Nunca asistió
+1991,13.0,m,602,No asiste pero asistió
+1991,13.0,m,66,Ignorado
+1991,13.0,v,19557,Asiste
+1991,13.0,v,33,Nunca asistió
+1991,13.0,v,641,No asiste pero asistió
+1991,13.0,v,53,Ignorado
+1991,14.0,m,19447,Asiste
+1991,14.0,m,32,Nunca asistió
+1991,14.0,m,1212,No asiste pero asistió
+1991,14.0,m,66,Ignorado
+1991,14.0,v,19352,Asiste
+1991,14.0,v,42,Nunca asistió
+1991,14.0,v,1298,No asiste pero asistió
+1991,14.0,v,72,Ignorado
+1991,15.0,m,18931,Asiste
+1991,15.0,m,57,Nunca asistió
+1991,15.0,m,2131,No asiste pero asistió
+1991,15.0,m,50,Ignorado
+1991,15.0,v,18121,Asiste
+1991,15.0,v,49,Nunca asistió
+1991,15.0,v,2182,No asiste pero asistió
+1991,15.0,v,66,Ignorado
+1991,16.0,m,17599,Asiste
+1991,16.0,m,48,Nunca asistió
+1991,16.0,m,3156,No asiste pero asistió
+1991,16.0,m,69,Ignorado
+1991,16.0,v,17197,Asiste
+1991,16.0,v,48,Nunca asistió
+1991,16.0,v,3246,No asiste pero asistió
+1991,16.0,v,67,Ignorado
+1991,17.0,m,16534,Asiste
+1991,17.0,m,45,Nunca asistió
+1991,17.0,m,4370,No asiste pero asistió
+1991,17.0,m,67,Ignorado
+1991,17.0,v,15503,Asiste
+1991,17.0,v,31,Nunca asistió
+1991,17.0,v,4239,No asiste pero asistió
+1991,17.0,v,49,Ignorado
+1991,18.0,m,15623,Asiste
+1991,18.0,m,70,Nunca asistió
+1991,18.0,m,7621,No asiste pero asistió
+1991,18.0,m,90,Ignorado
+1991,18.0,v,14273,Asiste
+1991,18.0,v,68,Nunca asistió
+1991,18.0,v,7065,No asiste pero asistió
+1991,18.0,v,85,Ignorado
+1991,19.0,m,14169,Asiste
+1991,19.0,m,65,Nunca asistió
+1991,19.0,m,8860,No asiste pero asistió
+1991,19.0,m,89,Ignorado
+1991,19.0,v,12524,Asiste
+1991,19.0,v,66,Nunca asistió
+1991,19.0,v,8683,No asiste pero asistió
+1991,19.0,v,63,Ignorado
+1991,20.0,m,12599,Asiste
+1991,20.0,m,70,Nunca asistió
+1991,20.0,m,10355,No asiste pero asistió
+1991,20.0,m,111,Ignorado
+1991,20.0,v,11244,Asiste
+1991,20.0,v,87,Nunca asistió
+1991,20.0,v,9959,No asiste pero asistió
+1991,20.0,v,102,Ignorado
+1991,21.0,m,11479,Asiste
+1991,21.0,m,77,Nunca asistió
+1991,21.0,m,11640,No asiste pero asistió
+1991,21.0,m,89,Ignorado
+1991,21.0,v,10440,Asiste
+1991,21.0,v,76,Nunca asistió
+1991,21.0,v,10761,No asiste pero asistió
+1991,21.0,v,96,Ignorado
+1991,22.0,m,9470,Asiste
+1991,22.0,m,79,Nunca asistió
+1991,22.0,m,12467,No asiste pero asistió
+1991,22.0,m,87,Ignorado
+1991,22.0,v,9167,Asiste
+1991,22.0,v,86,Nunca asistió
+1991,22.0,v,11287,No asiste pero asistió
+1991,22.0,v,65,Ignorado
+1991,23.0,m,8150,Asiste
+1991,23.0,m,74,Nunca asistió
+1991,23.0,m,14260,No asiste pero asistió
+1991,23.0,m,87,Ignorado
+1991,23.0,v,8475,Asiste
+1991,23.0,v,71,Nunca asistió
+1991,23.0,v,12220,No asiste pero asistió
+1991,23.0,v,88,Ignorado
+1991,24.0,m,6233,Asiste
+1991,24.0,m,85,Nunca asistió
+1991,24.0,m,15501,No asiste pero asistió
+1991,24.0,m,101,Ignorado
+1991,24.0,v,6969,Asiste
+1991,24.0,v,84,Nunca asistió
+1991,24.0,v,13143,No asiste pero asistió
+1991,24.0,v,94,Ignorado
+2001,3.0,m,9700,Asiste
+2001,3.0,m,4981,Nunca asistió
+2001,3.0,m,325,No asiste pero asistió
+2001,3.0,m,-,Ignorado
+2001,3.0,v,9978,Asiste
+2001,3.0,v,5301,Nunca asistió
+2001,3.0,v,316,No asiste pero asistió
+2001,3.0,v,-,Ignorado
+2001,4.0,m,12737,Asiste
+2001,4.0,m,1953,Nunca asistió
+2001,4.0,m,285,No asiste pero asistió
+2001,4.0,m,-,Ignorado
+2001,4.0,v,13088,Asiste
+2001,4.0,v,2024,Nunca asistió
+2001,4.0,v,261,No asiste pero asistió
+2001,4.0,v,-,Ignorado
+2001,5.0,m,14467,Asiste
+2001,5.0,m,677,Nunca asistió
+2001,5.0,m,152,No asiste pero asistió
+2001,5.0,m,-,Ignorado
+2001,5.0,v,14753,Asiste
+2001,5.0,v,761,Nunca asistió
+2001,5.0,v,172,No asiste pero asistió
+2001,5.0,v,-,Ignorado
+2001,6.0,m,14471,Asiste
+2001,6.0,m,177,Nunca asistió
+2001,6.0,m,105,No asiste pero asistió
+2001,6.0,m,-,Ignorado
+2001,6.0,v,14927,Asiste
+2001,6.0,v,202,Nunca asistió
+2001,6.0,v,112,No asiste pero asistió
+2001,6.0,v,-,Ignorado
+2001,7.0,m,14463,Asiste
+2001,7.0,m,55,Nunca asistió
+2001,7.0,m,69,No asiste pero asistió
+2001,7.0,m,-,Ignorado
+2001,7.0,v,14687,Asiste
+2001,7.0,v,64,Nunca asistió
+2001,7.0,v,61,No asiste pero asistió
+2001,7.0,v,-,Ignorado
+2001,8.0,m,14343,Asiste
+2001,8.0,m,40,Nunca asistió
+2001,8.0,m,71,No asiste pero asistió
+2001,8.0,m,-,Ignorado
+2001,8.0,v,14830,Asiste
+2001,8.0,v,33,Nunca asistió
+2001,8.0,v,76,No asiste pero asistió
+2001,8.0,v,-,Ignorado
+2001,9.0,m,14821,Asiste
+2001,9.0,m,25,Nunca asistió
+2001,9.0,m,87,No asiste pero asistió
+2001,9.0,m,-,Ignorado
+2001,9.0,v,15229,Asiste
+2001,9.0,v,37,Nunca asistió
+2001,9.0,v,90,No asiste pero asistió
+2001,9.0,v,-,Ignorado
+2001,10.0,m,15491,Asiste
+2001,10.0,m,28,Nunca asistió
+2001,10.0,m,75,No asiste pero asistió
+2001,10.0,m,-,Ignorado
+2001,10.0,v,15769,Asiste
+2001,10.0,v,47,Nunca asistió
+2001,10.0,v,102,No asiste pero asistió
+2001,10.0,v,-,Ignorado
+2001,11.0,m,15638,Asiste
+2001,11.0,m,39,Nunca asistió
+2001,11.0,m,117,No asiste pero asistió
+2001,11.0,m,-,Ignorado
+2001,11.0,v,16139,Asiste
+2001,11.0,v,39,Nunca asistió
+2001,11.0,v,129,No asiste pero asistió
+2001,11.0,v,-,Ignorado
+2001,12.0,m,15691,Asiste
+2001,12.0,m,37,Nunca asistió
+2001,12.0,m,129,No asiste pero asistió
+2001,12.0,m,-,Ignorado
+2001,12.0,v,15974,Asiste
+2001,12.0,v,39,Nunca asistió
+2001,12.0,v,160,No asiste pero asistió
+2001,12.0,v,-,Ignorado
+2001,13.0,m,15858,Asiste
+2001,13.0,m,42,Nunca asistió
+2001,13.0,m,224,No asiste pero asistió
+2001,13.0,m,-,Ignorado
+2001,13.0,v,16135,Asiste
+2001,13.0,v,47,Nunca asistió
+2001,13.0,v,252,No asiste pero asistió
+2001,13.0,v,-,Ignorado
+2001,14.0,m,15799,Asiste
+2001,14.0,m,60,Nunca asistió
+2001,14.0,m,475,No asiste pero asistió
+2001,14.0,m,-,Ignorado
+2001,14.0,v,16099,Asiste
+2001,14.0,v,60,Nunca asistió
+2001,14.0,v,603,No asiste pero asistió
+2001,14.0,v,-,Ignorado
+2001,15.0,m,15736,Asiste
+2001,15.0,m,52,Nunca asistió
+2001,15.0,m,758,No asiste pero asistió
+2001,15.0,m,-,Ignorado
+2001,15.0,v,16069,Asiste
+2001,15.0,v,58,Nunca asistió
+2001,15.0,v,944,No asiste pero asistió
+2001,15.0,v,-,Ignorado
+2001,16.0,m,15541,Asiste
+2001,16.0,m,66,Nunca asistió
+2001,16.0,m,1224,No asiste pero asistió
+2001,16.0,m,-,Ignorado
+2001,16.0,v,15430,Asiste
+2001,16.0,v,49,Nunca asistió
+2001,16.0,v,1523,No asiste pero asistió
+2001,16.0,v,-,Ignorado
+2001,17.0,m,15193,Asiste
+2001,17.0,m,67,Nunca asistió
+2001,17.0,m,1806,No asiste pero asistió
+2001,17.0,m,-,Ignorado
+2001,17.0,v,15236,Asiste
+2001,17.0,v,61,Nunca asistió
+2001,17.0,v,2173,No asiste pero asistió
+2001,17.0,v,-,Ignorado
+2001,18.0,m,14655,Asiste
+2001,18.0,m,90,Nunca asistió
+2001,18.0,m,3936,No asiste pero asistió
+2001,18.0,m,-,Ignorado
+2001,18.0,v,14294,Asiste
+2001,18.0,v,91,Nunca asistió
+2001,18.0,v,4151,No asiste pero asistió
+2001,18.0,v,-,Ignorado
+2001,19.0,m,15065,Asiste
+2001,19.0,m,114,Nunca asistió
+2001,19.0,m,6090,No asiste pero asistió
+2001,19.0,m,-,Ignorado
+2001,19.0,v,13273,Asiste
+2001,19.0,v,109,Nunca asistió
+2001,19.0,v,6471,No asiste pero asistió
+2001,19.0,v,-,Ignorado
+2001,20.0,m,14287,Asiste
+2001,20.0,m,182,Nunca asistió
+2001,20.0,m,7661,No asiste pero asistió
+2001,20.0,m,-,Ignorado
+2001,20.0,v,12552,Asiste
+2001,20.0,v,137,Nunca asistió
+2001,20.0,v,8458,No asiste pero asistió
+2001,20.0,v,-,Ignorado
+2001,21.0,m,14390,Asiste
+2001,21.0,m,200,Nunca asistió
+2001,21.0,m,9634,No asiste pero asistió
+2001,21.0,m,-,Ignorado
+2001,21.0,v,12503,Asiste
+2001,21.0,v,152,Nunca asistió
+2001,21.0,v,10219,No asiste pero asistió
+2001,21.0,v,-,Ignorado
+2001,22.0,m,13028,Asiste
+2001,22.0,m,216,Nunca asistió
+2001,22.0,m,10871,No asiste pero asistió
+2001,22.0,m,-,Ignorado
+2001,22.0,v,11558,Asiste
+2001,22.0,v,205,Nunca asistió
+2001,22.0,v,11017,No asiste pero asistió
+2001,22.0,v,-,Ignorado
+2001,23.0,m,12081,Asiste
+2001,23.0,m,230,Nunca asistió
+2001,23.0,m,12593,No asiste pero asistió
+2001,23.0,m,-,Ignorado
+2001,23.0,v,10636,Asiste
+2001,23.0,v,236,Nunca asistió
+2001,23.0,v,12502,No asiste pero asistió
+2001,23.0,v,-,Ignorado
+2001,24.0,m,10584,Asiste
+2001,24.0,m,264,Nunca asistió
+2001,24.0,m,14415,No asiste pero asistió
+2001,24.0,m,-,Ignorado
+2001,24.0,v,9487,Asiste
+2001,24.0,v,243,Nunca asistió
+2001,24.0,v,13755,No asiste pero asistió
+2001,24.0,v,-,Ignorado
+2010,3.0,m,11786,Asiste
+2010,3.0,m,3535,Nunca asistió
+2010,3.0,m,174,No asiste pero asistió
+2010,3.0,m,-,Ignorado
+2010,3.0,v,12158,Asiste
+2010,3.0,v,3727,Nunca asistió
+2010,3.0,v,192,No asiste pero asistió
+2010,3.0,v,-,Ignorado
+2010,4.0,m,14360,Asiste
+2010,4.0,m,1218,Nunca asistió
+2010,4.0,m,165,No asiste pero asistió
+2010,4.0,m,-,Ignorado
+2010,4.0,v,14648,Asiste
+2010,4.0,v,1334,Nunca asistió
+2010,4.0,v,151,No asiste pero asistió
+2010,4.0,v,-,Ignorado
+2010,5.0,m,15426,Asiste
+2010,5.0,m,254,Nunca asistió
+2010,5.0,m,282,No asiste pero asistió
+2010,5.0,m,-,Ignorado
+2010,5.0,v,15854,Asiste
+2010,5.0,v,256,Nunca asistió
+2010,5.0,v,266,No asiste pero asistió
+2010,5.0,v,-,Ignorado
+2010,6.0,m,15577,Asiste
+2010,6.0,m,90,Nunca asistió
+2010,6.0,m,118,No asiste pero asistió
+2010,6.0,m,-,Ignorado
+2010,6.0,v,15949,Asiste
+2010,6.0,v,79,Nunca asistió
+2010,6.0,v,129,No asiste pero asistió
+2010,6.0,v,-,Ignorado
+2010,7.0,m,15043,Asiste
+2010,7.0,m,47,Nunca asistió
+2010,7.0,m,59,No asiste pero asistió
+2010,7.0,m,-,Ignorado
+2010,7.0,v,16019,Asiste
+2010,7.0,v,39,Nunca asistió
+2010,7.0,v,68,No asiste pero asistió
+2010,7.0,v,-,Ignorado
+2010,8.0,m,14734,Asiste
+2010,8.0,m,27,Nunca asistió
+2010,8.0,m,59,No asiste pero asistió
+2010,8.0,m,-,Ignorado
+2010,8.0,v,15199,Asiste
+2010,8.0,v,35,Nunca asistió
+2010,8.0,v,68,No asiste pero asistió
+2010,8.0,v,-,Ignorado
+2010,9.0,m,15102,Asiste
+2010,9.0,m,37,Nunca asistió
+2010,9.0,m,45,No asiste pero asistió
+2010,9.0,m,-,Ignorado
+2010,9.0,v,15444,Asiste
+2010,9.0,v,23,Nunca asistió
+2010,9.0,v,44,No asiste pero asistió
+2010,9.0,v,-,Ignorado
+2010,10.0,m,15306,Asiste
+2010,10.0,m,25,Nunca asistió
+2010,10.0,m,60,No asiste pero asistió
+2010,10.0,m,-,Ignorado
+2010,10.0,v,15842,Asiste
+2010,10.0,v,36,Nunca asistió
+2010,10.0,v,52,No asiste pero asistió
+2010,10.0,v,-,Ignorado
+2010,11.0,m,14327,Asiste
+2010,11.0,m,15,Nunca asistió
+2010,11.0,m,108,No asiste pero asistió
+2010,11.0,m,-,Ignorado
+2010,11.0,v,14899,Asiste
+2010,11.0,v,21,Nunca asistió
+2010,11.0,v,113,No asiste pero asistió
+2010,11.0,v,-,Ignorado
+2010,12.0,m,14335,Asiste
+2010,12.0,m,19,Nunca asistió
+2010,12.0,m,175,No asiste pero asistió
+2010,12.0,m,-,Ignorado
+2010,12.0,v,14871,Asiste
+2010,12.0,v,23,Nunca asistió
+2010,12.0,v,161,No asiste pero asistió
+2010,12.0,v,-,Ignorado
+2010,13.0,m,13828,Asiste
+2010,13.0,m,23,Nunca asistió
+2010,13.0,m,368,No asiste pero asistió
+2010,13.0,m,-,Ignorado
+2010,13.0,v,14169,Asiste
+2010,13.0,v,23,Nunca asistió
+2010,13.0,v,395,No asiste pero asistió
+2010,13.0,v,-,Ignorado
+2010,14.0,m,15180,Asiste
+2010,14.0,m,22,Nunca asistió
+2010,14.0,m,356,No asiste pero asistió
+2010,14.0,m,-,Ignorado
+2010,14.0,v,15374,Asiste
+2010,14.0,v,22,Nunca asistió
+2010,14.0,v,353,No asiste pero asistió
+2010,14.0,v,-,Ignorado
+2010,15.0,m,14856,Asiste
+2010,15.0,m,20,Nunca asistió
+2010,15.0,m,462,No asiste pero asistió
+2010,15.0,m,-,Ignorado
+2010,15.0,v,15108,Asiste
+2010,15.0,v,30,Nunca asistió
+2010,15.0,v,498,No asiste pero asistió
+2010,15.0,v,-,Ignorado
+2010,16.0,m,13611,Asiste
+2010,16.0,m,23,Nunca asistió
+2010,16.0,m,1455,No asiste pero asistió
+2010,16.0,m,-,Ignorado
+2010,16.0,v,13619,Asiste
+2010,16.0,v,34,Nunca asistió
+2010,16.0,v,1611,No asiste pero asistió
+2010,16.0,v,-,Ignorado
+2010,17.0,m,13343,Asiste
+2010,17.0,m,31,Nunca asistió
+2010,17.0,m,2143,No asiste pero asistió
+2010,17.0,m,-,Ignorado
+2010,17.0,v,13229,Asiste
+2010,17.0,v,37,Nunca asistió
+2010,17.0,v,2411,No asiste pero asistió
+2010,17.0,v,-,Ignorado
+2010,18.0,m,13507,Asiste
+2010,18.0,m,42,Nunca asistió
+2010,18.0,m,4589,No asiste pero asistió
+2010,18.0,m,-,Ignorado
+2010,18.0,v,12751,Asiste
+2010,18.0,v,49,Nunca asistió
+2010,18.0,v,4714,No asiste pero asistió
+2010,18.0,v,-,Ignorado
+2010,19.0,m,13466,Asiste
+2010,19.0,m,51,Nunca asistió
+2010,19.0,m,6744,No asiste pero asistió
+2010,19.0,m,-,Ignorado
+2010,19.0,v,11982,Asiste
+2010,19.0,v,58,Nunca asistió
+2010,19.0,v,7207,No asiste pero asistió
+2010,19.0,v,-,Ignorado
+2010,20.0,m,13712,Asiste
+2010,20.0,m,66,Nunca asistió
+2010,20.0,m,8409,No asiste pero asistió
+2010,20.0,m,-,Ignorado
+2010,20.0,v,11980,Asiste
+2010,20.0,v,77,Nunca asistió
+2010,20.0,v,9091,No asiste pero asistió
+2010,20.0,v,-,Ignorado
+2010,21.0,m,12795,Asiste
+2010,21.0,m,85,Nunca asistió
+2010,21.0,m,9528,No asiste pero asistió
+2010,21.0,m,-,Ignorado
+2010,21.0,v,10938,Asiste
+2010,21.0,v,91,Nunca asistió
+2010,21.0,v,10174,No asiste pero asistió
+2010,21.0,v,-,Ignorado
+2010,22.0,m,12129,Asiste
+2010,22.0,m,100,Nunca asistió
+2010,22.0,m,10943,No asiste pero asistió
+2010,22.0,m,-,Ignorado
+2010,22.0,v,10484,Asiste
+2010,22.0,v,99,Nunca asistió
+2010,22.0,v,11437,No asiste pero asistió
+2010,22.0,v,-,Ignorado
+2010,23.0,m,11748,Asiste
+2010,23.0,m,90,Nunca asistió
+2010,23.0,m,12590,No asiste pero asistió
+2010,23.0,m,-,Ignorado
+2010,23.0,v,9859,Asiste
+2010,23.0,v,76,Nunca asistió
+2010,23.0,v,12814,No asiste pero asistió
+2010,23.0,v,-,Ignorado
+2010,24.0,m,10557,Asiste
+2010,24.0,m,110,Nunca asistió
+2010,24.0,m,14348,No asiste pero asistió
+2010,24.0,m,-,Ignorado
+2010,24.0,v,9227,Asiste
+2010,24.0,v,108,Nunca asistió
+2010,24.0,v,14460,No asiste pero asistió
+2010,24.0,v,-,Ignorado
